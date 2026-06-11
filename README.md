@@ -34,6 +34,8 @@ The proposed approach leverages MediaPipe Pose for extracting human skeletal key
 7. Alert Generation and Logging
 8. Snapshot Storage and Monitoring Dashboard
 
+![System Architecture](screenshots/architecture.png)
+
 ---
 
 ## Technologies Used
