@@ -1,0 +1,15 @@
+**pycache**/
+*.pyc
+
+.env
+models/*.h5
+models/*.pt
+snapshots/
+output_with_alerts.mp4
+
+*.csv
+*.npy
+
+node_modules/
+
+.vscode/
