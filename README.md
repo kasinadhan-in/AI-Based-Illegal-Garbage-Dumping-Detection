@@ -103,7 +103,7 @@ pip install -r requirements.txt
 Run the detection system:
 
 ```bash
-python puthiyath.py
+python dumping_detection.py
 ```
 
 ---
