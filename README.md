@@ -1,4 +1,4 @@
-# 🚮 AI-Based Illegal Garbage Dumping Detection System
+# 🚮 Real-Time Surveillance System for Detecting Unauthorized Garbage Dumping Using Pose Estimation
 
 An intelligent real-time surveillance system that detects unauthorized garbage dumping using **Computer Vision**, **Pose Estimation**, and **Deep Learning**. The system automatically analyzes surveillance footage, recognizes dumping activities, captures evidence, logs incidents, and generates alerts for monitoring authorities.
 
