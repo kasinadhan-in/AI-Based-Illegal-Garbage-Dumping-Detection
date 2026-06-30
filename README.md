@@ -181,10 +181,11 @@ AI-Based-Illegal-Garbage-Dumping-Detection/
 
 This project was developed as a collaborative academic project by:
 
-* **Kasinadhan S — https://github.com/kasinadhan-in**
-* **Adithya Krishna J**
-* **Bharadwaj Kesav P**
-* **Pranav P**
+* **[Kasinadhan S](https://github.com/kasinadhan-in)**
+* **[Adithya Krishna J](https://github.com/<username>)**
+* **[Bharadwaj Kesav P](https://github.com/<username>)**
+* **[Pranav P](https://github.com/Pranavp2004)**
+
 
 Each team member contributed to different aspects of the project, including system design, model development, backend implementation, frontend development, testing, and documentation.
 ---
