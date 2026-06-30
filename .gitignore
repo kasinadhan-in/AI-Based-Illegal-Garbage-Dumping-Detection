@@ -1,15 +1,28 @@
-**pycache**/
+# Python
+__pycache__/
 *.pyc
 
+# Environment variables
 .env
+
+# ML Models
 models/*.h5
 models/*.pt
-snapshots/
+
+# Generated output
+backend/snapshots/
 output_with_alerts.mp4
 
+# Generated datasets/logs
 *.csv
 *.npy
 
+# Node
 node_modules/
 
+# VS Code
 .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
