@@ -134,29 +134,29 @@ Detection snapshots are available in the **screenshots/** directory.
 
 ## 📦 Installation
 
-Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/kasinadhan-in/AI-Based-Illegal-Garbage-Dumping-Detection.git
+cd AI-Based-Illegal-Garbage-Dumping-Detection
 ```
 
-Navigate to the backend
+### Backend Setup
 
 ```bash
 cd backend
-```
-
-Install dependencies
-
-```bash
 pip install -r requirements.txt
-```
-
-Run the detection system
-
-```bash
 python dumping_detection.py
 ```
+
+### Frontend Setup
+
+```bash
+cd ../frontend
+npm install
+npm run dev
+```
+
 
 ---
 
