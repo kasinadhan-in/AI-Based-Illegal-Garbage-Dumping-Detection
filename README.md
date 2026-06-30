@@ -175,7 +175,6 @@ AI-Based-Illegal-Garbage-Dumping-Detection/
 ```
 
 ---
----
 
 ## 👥 Project Team
 
