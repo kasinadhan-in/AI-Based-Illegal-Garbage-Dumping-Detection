@@ -182,7 +182,7 @@ This project was developed as a collaborative academic project by:
 
 * **[Kasinadhan S](https://github.com/kasinadhan-in)**
 * **[Adithya Krishna J](https://github.com/<username>)**
-* **[Bharadwaj Kesav P](https://github.com/<username>)**
+* **[Bharadwaj Kesav P](https://github.com/BharadwajKesav)**
 * **[Pranav P](https://github.com/Pranavp2004)**
 
 
