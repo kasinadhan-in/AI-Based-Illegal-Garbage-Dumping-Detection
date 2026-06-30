@@ -175,6 +175,30 @@ AI-Based-Illegal-Garbage-Dumping-Detection/
 ```
 
 ---
+---
+
+## 👥 Project Team
+
+This project was developed as a collaborative academic project by:
+
+* **Kasinadhan S — https://github.com/kasinadhan-in**
+* **Adithya Krishna J**
+* **Bharadwaj Kesav P**
+* **Pranav P**
+
+Each team member contributed to different aspects of the project, including system design, model development, backend implementation, frontend development, testing, and documentation.
+---
+
+## 🎓 Academic Information
+
+**Project Title:** Real-Time Surveillance System for Detecting Unauthorized Garbage Dumping Using Pose Estimation
+
+**Institution:** Amrita Vishwa Vidyapeetham
+
+**Department:** Computer Science and Engineering
+
+**Academic Year:** 2025–2026
+
 
 ## 📄 License
 
